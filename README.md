@@ -1,2 +1,3 @@
-Aplicación React JS con Tailwind
+Aplicación Web
+React JS con Tailwind
 Full Responsive
